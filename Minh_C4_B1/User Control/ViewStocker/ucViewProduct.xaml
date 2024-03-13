@@ -1,0 +1,114 @@
+﻿<UserControl x:Class="Minh_C3_B1.ucViewProduct"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Minh_C3_B1"
+             mc:Ignorable="d" >
+    <UserControl.Resources>
+        <local:ConverterPhay
+            x:Key="ConverterPhay"/>
+    </UserControl.Resources>
+    
+    <Grid Height="230" Width="600">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="400"/>
+        </Grid.RowDefinitions>
+        <Border CornerRadius="15" >
+            <Label Grid.Row="0"
+               FontSize="25"
+               HorizontalContentAlignment="Center" >
+               Product
+            </Label>
+        </Border>
+        <StackPanel Grid.Row="1"
+                    Width="800"
+                    Margin="10,0,0,0">
+            <Border CornerRadius="15"
+                    Background="GhostWhite"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    Width="150"
+                    Height="45"
+                    HorizontalAlignment="Left">
+                <Button BorderThickness="0"
+                        Width="100"
+                        Height="35"
+                        Background="GhostWhite"
+                        Content="Electronic"
+                        FontSize="15"
+                        Name="btnElec"
+                        Click="btnElec_Click"
+                        Style="{StaticResource menuButtonStyle}">
+                </Button>
+            </Border>
+
+            <Border CornerRadius="15"
+                    Background="GhostWhite"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    Width="150"
+                    Height="45"
+                    Margin="20,-45,360,0">
+                <Button Width="100" Height="35"
+                        Content="Porcelain"
+                        Background="GhostWhite"
+                        BorderThickness="0"
+                        FontSize="15"
+                        Name="btnPorcelain"
+                        Click="btnPorcelain_Click"
+                        Style="{StaticResource menuButtonStyle}">
+                </Button>
+            </Border>
+
+            <Border CornerRadius="15"
+                    Background="GhostWhite"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    Width="150"
+                    Height="45"
+                    Margin="-30,-45,0,0">
+                <Button Width="100" Height="35"
+                        Background="GhostWhite"
+                        Content="Food"
+                        FontSize="15"
+                        Name="btnFood"
+                        BorderThickness="0"
+                        Click="btnFood_Click"
+                        Style="{StaticResource menuButtonStyle}">
+                </Button>
+            </Border>
+        </StackPanel>
+        
+        <DataGrid Name="dtgProduct"
+                  Height="120"
+                  HorizontalAlignment="Left"
+                  Margin="10,10,0,10"
+                  VerticalAlignment="Top"
+                  Width="570"
+                  Grid.Row="2"
+                  RowHeight = "20" 
+                  ColumnWidth = "70"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id " 
+                                    Binding="{Binding Id}" />
+                <DataGridTextColumn Header="Name" 
+                                    Binding="{Binding Name}" 
+                                    Width="170"/>
+                <DataGridTextColumn Header="Producer" 
+                                    Binding="{Binding Producer}"
+                                    Width="100"/>
+                <DataGridTextColumn Header="Price Input" 
+                                    Binding="{Binding PriceInput, Converter={StaticResource ConverterPhay}}" 
+                                    Width="100"/>
+                <DataGridTextColumn Header="Price Output" 
+                                    Binding="{Binding PriceOutput, Converter={StaticResource ConverterPhay}}" 
+                                    Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

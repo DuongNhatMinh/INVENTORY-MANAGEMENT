@@ -1,0 +1,168 @@
+﻿<Window x:Class="Minh_C3_B1.frmStocker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Minh_C3_B1"
+        mc:Ignorable="d"
+        Title="frmStocker"
+        Background="Transparent"
+        AllowsTransparency="True"
+        Height="700" Width="930"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        FontSize="15">
+    <Border
+        CornerRadius="15"
+        Background="#EEF3F5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="650"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="800"/>
+                        <ColumnDefinition Width="100"/>
+                    </Grid.ColumnDefinitions>
+                    <Border CornerRadius="15"
+                            Margin="5,5,76.6,5.2"
+                            BorderBrush="Black" BorderThickness="1"
+                            Background="Aquamarine" Grid.ColumnSpan="2" >
+                        <Label Height="35"
+                           Foreground="Crimson"
+                           x:Name="lbTrang"
+                           Grid.Column="0"
+                           Margin="10.2,0.2,0,0" HorizontalAlignment="Left" Width="769">
+                        </Label>
+                    </Border>
+                    <Border Grid.Column="1"
+                            CornerRadius="15"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Black" BorderThickness="1"
+                            Margin="-15,5"
+                            Background="OrangeRed">
+                        <Button Height="35"
+                                Width="80"
+                                BorderThickness="0"
+                                Name="btnLogOut"
+                                Content="LogOut"
+                                Background="OrangeRed"
+                                Click="btnLogOut_Click"
+                                Style="{StaticResource menuButtonStyle}"/>
+                    </Border>
+                </Grid>
+            </StackPanel>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" >
+                    <Border CornerRadius="15"
+                            Margin="0,5"
+                            Background="Aquamarine"
+                            Height="600"
+                            BorderBrush="Black" BorderThickness="1">
+                        <TreeView Margin="10"
+                                  Background="Aquamarine"
+                                  BorderThickness="0">
+                            <TreeView.Resources>
+                                <SolidColorBrush
+                                    x:Key="{x:Static SystemColors.HighlightBrushKey}"
+                                    Color="Aquamarine"/>
+                            </TreeView.Resources>
+
+                            <!--<TreeViewItem Header="Home"
+                                  Name="tvHome"
+                                  Selected="tvHome_Selected">
+                            </TreeViewItem>-->
+
+                            <TreeViewItem Header="Product">
+                                <TreeViewItem Header="View Product"
+                                  Name="tvproduct"
+                                  Selected="tvproduct_Selected">
+                                </TreeViewItem>
+
+                                <!--<TreeViewItem Header="Update Price"
+                                          Selected="TreeViewItem_Selected">
+                                </TreeViewItem>-->
+                            </TreeViewItem>
+
+                            <TreeViewItem Header="Receipt"
+                                  HorizontalContentAlignment="Center">
+                                <TreeViewItem Header="Create"
+                                      Name="createReceipt"
+                                      Selected="createReceipt_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="View List Receipt"
+                                              Name="viewlistreceipt"
+                                              Selected="viewlistreceipt_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="Search Receipt"
+                                              Name="SearchReceipt"
+                                              Selected="SearchReceipt_Selected">
+                                </TreeViewItem>
+                            </TreeViewItem>
+
+                            <TreeViewItem Header="Invoice"
+                                  HorizontalContentAlignment="Center">
+                                <TreeViewItem Header="Create"
+                                      Name="createInvoice"
+                                      Selected="createInvoice_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="View List Invoice"
+                                              Name="viewInvoice"
+                                              Selected="viewInvoice_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="Search Invoice"
+                                              Name="SearchInvoice"
+                                              Selected="SearchInvoice_Selected">
+                                </TreeViewItem>
+                            </TreeViewItem>
+
+                            <TreeViewItem Header="View Inventory">
+                                <TreeViewItem Header="Inventory Receipt"
+                                              FontSize="13"
+                                              Name="Invenreceipt"
+                                              Selected="Invenreceipt_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="Inventory Invoice"
+                                              FontSize="13"
+                                              Name="InvenInvoice"
+                                              Selected="InvenInvoice_Selected">
+                                </TreeViewItem>
+                                <TreeViewItem Header="Inventory"
+                                              Name="Inventory"
+                                              Selected="Inventory_Selected">
+                                </TreeViewItem>
+                            </TreeViewItem>
+
+                            <TreeViewItem Header="View ExpDate"
+                                          Selected="TreeViewItem_Selected_1">
+                            </TreeViewItem>
+
+                            <TreeViewItem Header="View Out of Stock"
+                                          Name="outofstock"
+                                          Selected="outofstock_Selected">
+                            </TreeViewItem>
+
+                            <!--<TreeViewItem Header="Statistical"
+                                          Name="statistical"
+                                          Selected="statistical_Selected">
+                            </TreeViewItem>-->
+                        </TreeView>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel  Name="stackPanel" 
+                         Grid.Column="2"/>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

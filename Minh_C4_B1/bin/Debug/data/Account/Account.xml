@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <Account Username="admin" Password="admin" Status="0" />
+  <Account Username="stocker" Password="stocker" Status="0" />
+  <Account Username="cashier" Password="cashier" Status="0" />
+</Accounts>

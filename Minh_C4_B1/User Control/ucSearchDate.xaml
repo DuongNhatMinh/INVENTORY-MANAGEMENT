@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="Minh_C3_B1.ucSearchDate"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Minh_C3_B1"
+             mc:Ignorable="d" >
+    <!--<UserControl.Resources>
+        <local:ConverterPhay
+            x:Key="Converter"/>
+    </UserControl.Resources>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="250"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="720"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <DatePicker Width="200"
+                        Margin="-150,10,0,0"
+                        Name="datesearch">
+            </DatePicker>
+            <Button Width="100" Height="20"
+                    Margin="200,-20,0,0"
+                    Content="Search"
+                    Click="Button_Click">
+            </Button>
+        </StackPanel>
+
+        <StackPanel Name="stackpanel" Grid.Row="1">
+        </StackPanel>
+    </Grid>
+</UserControl>

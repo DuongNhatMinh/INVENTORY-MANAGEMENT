@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExpDates>
+  <ExpDate Id="F0028" Name="Ca Tim Da Lat" Category="Food" Producer="Viet Food" PriceInput="25000" PriceOutput="35600" MfgDate="23/05/2023" ExpDate="10/06/2023">
+  </ExpDate>
+  <ExpDate Id="F0023" Name="Ca Chua Bi" Category="Food" Producer="Viet Food" PriceInput="20000" PriceOutput="28720" MfgDate="21/07/2023" ExpDate="01/08/2023">
+  </ExpDate>
+  <ExpDate Id="F0072" Name="Ot Chuong Da Lat" Category="Food" Producer="Viet Food" PriceInput="30000" PriceOutput="43080" MfgDate="20/07/2013" ExpDate="15/08/2023">
+  </ExpDate>
+</ExpDates>

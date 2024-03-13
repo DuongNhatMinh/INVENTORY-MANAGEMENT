@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventorys>
+  <Inventory Id="1" Product="Chen su Tok" Previous="0" AmountPrevious="0" Recent="5" AmountRecent="394900" Date="23/08/2023" Quantity="5" Amount="394900">
+  </Inventory>
+  <Inventory Id="2" Product="Loa SoundMax A-8900" Previous="3" AmountPrevious="5169600" Recent="1" AmountRecent="1723200" Date="23/08/2023" Quantity="4" Amount="6892800">
+  </Inventory>
+  <Inventory Id="3" Product="Dia Su Canh Rong" Previous="0" AmountPrevious="0" Recent="3" AmountRecent="2369400" Date="23/08/2023" Quantity="3" Amount="2369400">
+  </Inventory>
+</Inventorys>

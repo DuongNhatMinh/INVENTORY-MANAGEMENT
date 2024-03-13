@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="E102" Name="Tai nghe Xperia Z1" Category="Electronic" Producer="Sony" PriceInput="2050000" PriceOutput="0" Warranty="12" ElectricPower="0" />
+  <Product Id="E126" Name="Loa SoundMax A-8900" Category="Electronic" Producer="SoundMax" PriceInput="1200000" PriceOutput="0" Warranty="12" ElectricPower="90" />
+  <Product Id="E136" Name="Loa Buletooh T-800" Category="Electronic" Producer="AbaStar" PriceInput="1250000" PriceOutput="0" Warranty="15" ElectricPower="95" />
+  <Product Id="E143" Name="Man Hinh FullHD+" Category="Electronic" Producer="AbaStar" PriceInput="2150000" PriceOutput="0" Warranty="10" ElectricPower="0" />
+</Products>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DetailInvoices>
+  <DetailInvoice Id="1" IdInvoice="PXK1" IdProduct="P980" Name="Chen su Tok" IdCategory="Porcelain" PriceOutput="78980" Quantity="5" Amount="394900">
+  </DetailInvoice>
+  <DetailInvoice Id="2" IdInvoice="PXK1" IdProduct="E126" Name="Loa SoundMax A-8900" IdCategory="Electronic" PriceOutput="1723200" Quantity="3" Amount="5169600">
+  </DetailInvoice>
+  <DetailInvoice Id="3" IdInvoice="PXK1" IdProduct="P36" Name="Dia Su Canh Rong" IdCategory="Porcelain" PriceOutput="789800" Quantity="3" Amount="2369400">
+  </DetailInvoice>
+  <DetailInvoice Id="2" IdInvoice="PXK2" IdProduct="E126" Name="Loa SoundMax A-8900" IdCategory="Electronic" PriceOutput="1723200" Quantity="1" Amount="1723200">
+  </DetailInvoice>
+</DetailInvoices>

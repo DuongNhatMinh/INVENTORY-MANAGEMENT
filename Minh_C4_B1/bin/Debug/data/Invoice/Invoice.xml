@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Invoices>
+  <Invoice Id="PXK1" UserName="stocker" Quantity="11" Total="7933900" CreateAt="23/08/2023 9:57">
+  </Invoice>
+  <Invoice Id="PXK2" UserName="stocker" Quantity="1" Total="1723200" CreateAt="23/08/2023 9:58">
+  </Invoice>
+</Invoices>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Receipts>
+  <Receipt Id="PNK1" UserName="stocker" Quantity="9" Total="20965600" CreateAt="23/08/2023 9:51">
+  </Receipt>
+  <Receipt Id="PNK2" UserName="stocker" Quantity="10" Total="4343900" CreateAt="23/08/2023 9:52">
+  </Receipt>
+</Receipts>

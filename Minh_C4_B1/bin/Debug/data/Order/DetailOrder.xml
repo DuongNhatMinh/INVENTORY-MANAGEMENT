@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DetailOrders>
+  <DetailOrder Id="1" IdOrder="PBH1" IdProduct="P980" Name="Chen su Tok" IdCategory="Porcelain" PriceOutput="78980" Quantity="3" Amount="236940">
+  </DetailOrder>
+  <DetailOrder Id="3" IdOrder="PBH1" IdProduct="E126" Name="Loa SoundMax A-8900" IdCategory="Electronic" PriceOutput="1723200" Quantity="1" Amount="1723200">
+  </DetailOrder>
+</DetailOrders>

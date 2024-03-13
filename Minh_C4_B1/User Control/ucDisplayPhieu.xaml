@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="Minh_C3_B1.DisplayPhieu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Minh_C3_B1"
+             mc:Ignorable="d" >
+    <StackPanel Name="stackpanel">
+        <Border BorderBrush="Red" BorderThickness="2"
+                Width="330" Height="220"
+                Margin="25">
+            <StackPanel>
+                <Label Name="lbId"
+                   Height="50"
+                   HorizontalContentAlignment="Center"
+                   BorderBrush="Black" BorderThickness="0,0,0,1"/>
+                <Label Name="lbName"
+                   Height="50"
+                   HorizontalContentAlignment="Center"
+                   BorderBrush="Black" BorderThickness="0,0,0,1"/>
+                <Label Name="lbDate"
+                   Height="50"
+                   HorizontalContentAlignment="Center"
+                   BorderBrush="Black" BorderThickness="0,0,0,1"/>
+                <Border CornerRadius="15"
+                        Margin="15"
+                        BorderThickness="0" 
+                        HorizontalAlignment="Center">
+                    <Button Content="Create" 
+                            Foreground="Black"
+                            FontSize="30"
+                            Width="100"
+                            BorderThickness="0" 
+                            HorizontalContentAlignment="Center"   
+                            Name="btnOk"
+                            Click="btnOk_Click"
+                            Grid.Column="0"
+                            TabIndex="2" 
+                            HorizontalAlignment="Left" 
+                            Margin="20,0,0,0"/>
+                </Border>
+            </StackPanel>
+        </Border>
+    </StackPanel>
+</UserControl>

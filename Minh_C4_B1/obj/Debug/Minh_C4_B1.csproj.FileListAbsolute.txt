@@ -1,0 +1,416 @@
+D:\Visual\Minh_C3_B1++\Minh_C3_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_C3_B1++\Minh_C3_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C3_B1++\Minh_C3_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1\Minh_C4_B1\bin\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmCashier.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmLogin.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmStocker.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\MainWindow.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\App.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.cache
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.lref
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\App.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmCashier.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmLogin.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\frmViews\frmStocker.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\MainWindow.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Style\Buttons.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Style\DataGrid.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Style\ListBox.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Style\TextBox.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1.g.resources
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C3_B1.Properties.Resources.resources
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C4_B1.csproj.GenerateResource.Cache
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\Minh_C4_B1.csprojResolveAssemblyReference.cache
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearch.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearchId.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearch.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucSearchId.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.g.cs
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.baml
+D:\Visual\Minh_C4_B1\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\bin\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmCashier.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmLogin.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmStocker.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\MainWindow.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearch.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearchId.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\App.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.cache
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.lref
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\App.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmCashier.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmLogin.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmStocker.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\MainWindow.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Style\Buttons.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Style\DataGrid.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Style\ListBox.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Style\TextBox.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearch.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucSearchId.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1.g.resources
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C3_B1.Properties.Resources.resources
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C4_B1.csproj.GenerateResource.Cache
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmAdmin.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmAdmin.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmMessage.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucEditUser.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucUser.g.cs
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\frmViews\frmMessage.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucEditUser.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\User Control\ucUser.baml
+D:\Visual\Minh_C4_B1+\Minh_C4_B1\obj\Debug\Minh_C4_B1.csprojResolveAssemblyReference.cache
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\bin\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\MainWindow.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucEditUser.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearch.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearchId.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucUser.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\App.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.cache
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.lref
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\App.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\MainWindow.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Style\Buttons.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Style\DataGrid.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Style\ListBox.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Style\TextBox.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucEditUser.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearch.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucSearchId.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucUser.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1.g.resources
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C3_B1.Properties.Resources.resources
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Minh_C4_B1.csproj.GenerateResource.Cache
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmAdmin.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmCashier.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmLogin.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmMessage.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmStocker.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmAdmin.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmCashier.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmLogin.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmMessage.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\Views\frmStocker.baml
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.g.cs
+D:\Visual\Minh_C4_B1++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmAdmin.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmBill.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmCashier.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmLogin.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmMessage.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmStocker.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\MainWindow.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucEditUser.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearch.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearchId.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucUser.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\App.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.cache
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.lref
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\bin\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\App.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmAdmin.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmBill.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmCashier.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmLogin.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmMessage.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Views\frmStocker.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\MainWindow.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Style\Buttons.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Style\DataGrid.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Style\ListBox.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Style\TextBox.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucEditUser.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearch.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucSearchId.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucUser.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1.g.resources
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C3_B1.Properties.Resources.resources
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C4_B1.csproj.GenerateResource.Cache
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucEditCustomer.g.cs
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucEditCustomer.baml
+D:\Visual\Minh_C4_B1+++\Minh_C4_B1\obj\Debug\Minh_C4_B1.csprojResolveAssemblyReference.cache
+D:\Visual\Minh_QLBH\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe.config
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_QLBH\Minh_C4_B1\bin\Debug\Minh_C3_B1.exe
+D:\Visual\Minh_QLBH\Minh_C4_B1\bin\Debug\Minh_C3_B1.pdb
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C4_B1.csprojResolveAssemblyReference.cache
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucEditCustomer.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmAdmin.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmBill.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmCashier.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmLogin.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmMessage.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmStocker.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\MainWindow.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucEditUser.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearch.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearchId.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucUser.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\App.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.cache
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1_MarkupCompile.lref
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\App.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucBills.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucEditCustomer.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmAdmin.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmBill.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmCashier.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmLogin.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmMessage.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Views\frmStocker.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\MainWindow.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Style\Buttons.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Style\DataGrid.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Style\ListBox.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Style\TextBox.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailOrder.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailInvoice.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDetailReceipt.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucEditUser.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearch.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearchDate.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucSearchId.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucUser.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucStatistical.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucInventoryInvoice.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCreateOrder.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucCustomer.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewCustomer.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewCashier\ucViewOrder.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucHome.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucChangePrice.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\uccreateInvoice.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucDisplayExp.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucDisplayPhieu.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucCreateReceipt.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucInventoryView.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ucOutofStock.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInventory.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewInvoice.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewProduct.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\User Control\ViewStocker\ucViewReceipt.baml
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1.g.resources
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C3_B1.Properties.Resources.resources
+D:\Visual\Minh_QLBH\Minh_C4_B1\obj\Debug\Minh_C4_B1.csproj.GenerateResource.Cache

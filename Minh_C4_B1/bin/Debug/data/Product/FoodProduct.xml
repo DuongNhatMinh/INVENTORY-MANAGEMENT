@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="F0023" Name="Ca Chua Bi" Category="Food" Producer="Viet Food" PriceInput="20000" PriceOutput="0" MfgDate="21/07/2023" ExpDate="1/08/2023" />
+  <Product Id="F0028" Name="Ca Tim Da Lat" Category="Food" Producer="Viet Food" PriceInput="25000" PriceOutput="0" MfgDate="23/05/2023" ExpDate="10/06/2023" />
+  <Product Id="F0053" Name="Dua Leo Da Lat" Category="Food" Producer="Viet Food" PriceInput="15000" PriceOutput="0" MfgDate="20/07/2023" ExpDate="20/08/2023" />
+  <Product Id="F0072" Name="Ot Chuong Da Lat" Category="Food" Producer="Viet Food" PriceInput="30000" PriceOutput="0" MfgDate="20/07/2013" ExpDate="15/08/2023" />
+</Products>

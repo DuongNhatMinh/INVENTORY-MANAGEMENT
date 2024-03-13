@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DetailReceipts>
+  <DetailReceipt Id="1" IdReceipt="PNK1" IdProduct="E126" Name="Loa SoundMax A-8900" IdCategory="Electronic" PriceInput="1200000" PriceOutput="1723200" Quantity="5" Amount="8616000">
+  </DetailReceipt>
+  <DetailReceipt Id="2" IdReceipt="PNK1" IdProduct="E143" Name="Man Hinh FullHD+" IdCategory="Electronic" PriceInput="2150000" PriceOutput="3087400" Quantity="4" Amount="6174802">
+  </DetailReceipt>
+  <DetailReceipt Id="1" IdReceipt="PNK2" IdProduct="P980" Name="Chen su Tok" IdCategory="Porcelain" PriceInput="55000" PriceOutput="78980" Quantity="5" Amount="394900">
+  </DetailReceipt>
+  <DetailReceipt Id="2" IdReceipt="PNK2" IdProduct="P36" Name="Dia Su Canh Rong" IdCategory="Porcelain" PriceInput="550000" PriceOutput="789800" Quantity="5" Amount="3949000">
+  </DetailReceipt>
+</DetailReceipts>

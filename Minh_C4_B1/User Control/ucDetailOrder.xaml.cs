@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace Minh_C3_B1
+{
+    /// <summary>
+    /// Interaction logic for ucDetailReceipt.xaml
+    /// </summary>
+    public partial class ucDetailOrder : UserControl
+    {
+        private ObservableCollection<DetailOrder> lstdetailOrderTemp { get; set; }
+
+        public ucDetailOrder(object item)
+        {
+            InitializeComponent();
+            lstdetailOrderTemp = item as ObservableCollection<DetailOrder>;
+            dtgDetail.ItemsSource = lstdetailOrderTemp;
+        }
+    }
+}

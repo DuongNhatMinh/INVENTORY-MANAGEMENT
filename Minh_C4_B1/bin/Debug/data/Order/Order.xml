@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order Id="PBH1" UserName="cashier" Quantity="4" Total="1960140" CreateAt="24/08/2023 10:46">
+  </Order>
+</Orders>

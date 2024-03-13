@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer Name="Guest" Phone="None" CardID="000" Point="0" CardType="None" />
+  <Customer Name="Tran Van A" Phone="0921 512 546" CardID="111" Point="0" CardType="None" />
+  <Customer Name="Nguyen Thi Leo" Phone="0214 532 542" CardID="222" Point="0" CardType="None" />
+  <Customer Name="Minh" Phone="0981138654" CardID="333" Point="0" CardType="None" />
+  <Customer Name="Vương" Phone="025478455" CardID="444" Point="0" CardType="None" />
+</Customers>
